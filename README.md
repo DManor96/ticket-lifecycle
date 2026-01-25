@@ -26,28 +26,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img width="1084" height="754" alt="image" src="https://github.com/user-attachments/assets/eef28171-0fef-4ead-b36c-cab074c24f2e" />
+</p>Receive and analyze the ticket
 
-
-Receive and analyze the ticket
+</p><img width="1084" height="754" alt="image" src="https://github.com/user-attachments/assets/eef28171-0fef-4ead-b36c-cab074c24f2e" />
+</p>
 </p>
 
-<img width="873" height="574" alt="Screenshot 2026-01-23 101839" src="https://github.com/user-attachments/assets/8529a624-ebe2-4b9c-9b8a-ec4b4e9febbf" />
+</p> Triage and communicate with the end user to fully understand the scope of the problem
+</p><img width="873" height="574" alt="Screenshot 2026-01-23 101839" src="https://github.com/user-attachments/assets/8529a624-ebe2-4b9c-9b8a-ec4b4e9febbf" />
+  
+</p> Anaylse issue and "work the ticket." 
+</p><img width="1012" height="691" alt="Screenshot 2026-01-22 142402" src="https://github.com/user-attachments/assets/a9145bbd-99ff-4975-a3d9-0778fa516fc0" />
 
-
-</p> Triage and communicate with the end user to fully understand the scope of the problem   
-<p>
 </p>
-<br />
+</p> Try to resolve the issue or escalate it and document work
+</p><img width="1103" height="749" alt="image" src="https://github.com/user-attachments/assets/97b23430-7fc9-4b4a-b7d6-d44056c118af" />
 
-<p>
-<img width="1012" height="691" alt="Screenshot 2026-01-22 142402" src="https://github.com/user-attachments/assets/a9145bbd-99ff-4975-a3d9-0778fa516fc0" />
-
-<p> Try to resolve 
-
-
-<img width="1103" height="749" alt="image" src="https://github.com/user-attachments/assets/97b23430-7fc9-4b4a-b7d6-d44056c118af" />
-
-<p> escalate and document work.
 <br />
